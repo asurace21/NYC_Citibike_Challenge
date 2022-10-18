@@ -20,6 +20,8 @@ The purpose of this challenge is to utilize NYC Citibike data from the month of 
 
 ## Summary
 In conclusion, if we were building a Citibike business in Des Moines, Iowa, it should be scaled according to the population differences. We could estimate providing aroud 60,000 rides per month. Our analysis shows that a majority of the riders are annual subscribers, therefore we should ensure annual subscriptions are priced appropriately to ensure profitability. Another observation shown through our analysis is that most of the users in NYC, utilize it for commuting to and from work. If we are implementing a similar business model in Iowa, we should have a better understanding of the distance of workers daily commutes.
+#### Link for Tableau
+https://public.tableau.com/views/CitiBikeChallenge_16653551004570/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 #### Additional Vizualizations for future Analysis
 
